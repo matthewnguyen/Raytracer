@@ -1,0 +1,3 @@
+Command Line: ./as2 -sc input-07 -o input-07.obj
+Time: 3.523s
+Feature: Parse obj file, render triangles, colored lights

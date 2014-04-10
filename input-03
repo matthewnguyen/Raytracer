@@ -1,0 +1,49 @@
+size 1000 800
+
+camera 0 0 0 0 0 1 0 1 0 60
+
+point 0 0 0 1 1 1
+#point 2 -.5 0 .5 .5 .5
+#directional 1 1 1 .5 .5 .5
+
+ambient .1 .1 .1
+diffuse 0 0 0
+specular .9 .9 .9
+shininess 16
+emission 1 1 1
+
+sphere 0 0 5 .2
+
+ambient 0 .1 0
+diffuse 0 .8 0
+specular .9 .9 .9
+shininess 16
+emission .9 .9 .9
+
+sphere 1 1 5 1
+
+ambient 0 .1 .1
+diffuse 0 .4 .4
+specular .9 .9 .9
+shininess 16
+emission .9 .9 .9
+
+sphere -1 -1 5 1 
+
+ambient 0 .1 0
+diffuse .9 .5 0
+specular .9 .9 .9
+shininess 16
+emission .9 .9 .9
+
+sphere -1 1 5 1
+
+ambient 0 .1 0
+diffuse .8 0 .1
+specular .9 .9 .9
+shininess 16
+emission .9 .9 .9
+
+sphere 1 -1 5 1
+
+

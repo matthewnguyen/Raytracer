@@ -1,0 +1,37 @@
+size 1500 1000
+
+camera -60 0 10 1 0 0 0 0 1 60 
+
+directional -1 0 0 1 0 00
+point -20 0 50 1 0 .5
+point -20 20 20 0 1 .5
+#point -20 -50 10 0 0 1
+
+ambient 0 0 0
+diffuse .1 .1 .1
+specular .9 .9 .9
+shininess 16
+emission .9 .9 .9
+
+sphere -5 -100 10 93
+sphere -5 100 10 93
+
+ambient .1 0 .1
+diffuse .8 0 .4
+specular .9 .9 .9
+shininess 16
+
+
+
+scale 2 2 3
+rotate 0 0 1 0
+translate 0 0 30 
+
+ellipsoid
+
+scale 2 2 3
+rotate 0 0 1 0
+translate 0 0 -5 
+
+ellipsoid
+

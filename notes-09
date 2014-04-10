@@ -1,0 +1,3 @@
+Command Line: ./as2 -sc input-09 -o input-09.obj
+Time: 39.694s
+Feature: Reflection Man with Pretty Ellipsoids

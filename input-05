@@ -1,0 +1,39 @@
+size 640 480
+
+camera 0 0 0 0 0 1 0 1 0 60
+
+point 0 0 4 1 1 1
+
+ambient 0 .1 0
+diffuse 0 .8 0
+specular .9 .9 .9
+shininess 16
+
+
+sphere 1 1 5 .7
+
+ambient 0 .1 .1
+diffuse 0 .4 .4
+specular .9 .9 .9
+shininess 16
+
+
+sphere -1 -1 5 .7 
+
+ambient 0 .1 0
+diffuse .9 .5 0
+specular .9 .9 .9
+shininess 16
+
+
+sphere -1 1 5 .7
+
+ambient 0 .1 0
+diffuse .8 0 .1
+specular .9 .9 .9
+shininess 16
+
+
+sphere 1 -1 5 .7
+
+
